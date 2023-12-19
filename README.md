@@ -1,1 +1,1 @@
-# nft-sniper
+# NFT Sniper
